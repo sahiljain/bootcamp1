@@ -1,0 +1,3 @@
+target :MyAppTests do
+  pod 'Cedar'
+end
